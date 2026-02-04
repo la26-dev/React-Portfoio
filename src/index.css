@@ -403,6 +403,9 @@ html {
 
 /* ===== About Main Card ===== */
 
+.about {
+  padding: 80px 20px;
+}
 
 .main-about-card {
   background: var(--beige);
