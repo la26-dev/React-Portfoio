@@ -10,7 +10,7 @@ const Navbar = () => {
         <li><a href="#contact">Contact</a></li>
         <li>
   <a
-    href="/CV.pdf"
+    href="/React-Portfoio/CV.pdf"
     target="_blank"
     rel="noopener noreferrer"
   >
