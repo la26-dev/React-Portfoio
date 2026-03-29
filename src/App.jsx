@@ -1,4 +1,5 @@
 
+import DigitalSignature from "./components/DigitalSignature";
 import About from "./components/About";
 import Skills from "./components/Skills";
 import Projects from "./components/Projects";
@@ -11,7 +12,7 @@ function App() {
       <About />
       <Skills />
       <Projects />
-     
+  
 <footer className="contact">
   <h2>Contact</h2>
 
@@ -29,7 +30,7 @@ function App() {
     </a>
   </div>
 </footer>
-
+<DigitalSignature />
     </>
   );
 }
